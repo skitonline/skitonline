@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Привет, я Александр Евсеев
 
-<!--
-**skitonline/skitonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я QA Automation Engineer: автоматизирую тестирование, строю надёжные проверки и помогаю команде выпускать стабильный продукт. Люблю, когда тесты не просто «проходят», а реально ловят баги до релиза.
 
-Here are some ideas to get you started:
+## 🧠 Что умею
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Автоматизация на Python**: пишу устойчивые автотесты, работаю с чистыми структурами и поддерживаемым кодом.
+- **Web-автоматизация**: Selenium, Playwright — выбираю инструмент под задачу и скорость прогона.
+- **Подход к качеству**: не только «прогнать тест», но и покрыть критические сценарии, добавить понятные отчёты и сделать тесты удобными для поддержки.
+
+## 🛠️ Проекты (с кратким смыслом)
+
+| Проект | Что делает / в чём ценность | Ссылка |
+| --- | --- | --- |
+| Mind Games | Сборник из пяти консольных игр, созданных по мотивам популярных мобильных приложений для тренировки мозга. | [GitHub](https://github.com/skitonline/qa-auto-engineer-python-project-49) |
+| Difference Calculator | Программа, которая определяет различия между двумя структурами данных. | [GitHub](https://github.com/skitonline/qa-auto-engineer-python-project-241) |
+| Testing a Kanban board with Selenium (Python) | Автотесты для Kanban-доски: CRUD задач, статусы, переходы, валидация UI-состояний | [GitHub](https://github.com/skitonline/qa-auto-engineer-python-project-314) |
+
+
+## 📫 Связаться со мной
+
+- Email: alexander.evseev-96@yandex.ru
+- Telegram: [t.me/AlexEvs123](https://t.me/AlexEvs123)
