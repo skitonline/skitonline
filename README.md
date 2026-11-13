@@ -10,7 +10,7 @@
 
 ## 🛠️ Проекты (с кратким смыслом)
 
-| Проект | Что делает / в чём ценность | Ссылка |
+| Проект | Описание | Ссылка |
 | --- | --- | --- |
 | Mind Games | Сборник из пяти консольных игр, созданных по мотивам популярных мобильных приложений для тренировки мозга. | [GitHub](https://github.com/skitonline/qa-auto-engineer-python-project-49) |
 | Difference Calculator | Программа, которая определяет различия между двумя структурами данных. | [GitHub](https://github.com/skitonline/qa-auto-engineer-python-project-241) |
